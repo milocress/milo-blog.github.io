@@ -1,5 +1,7 @@
 # Milo Cress's Blog:
 
+Here's another blog you should visit [tpukernels.com](tpukernels.com)
+
 Here's a poem I wrote -
 
 he dropped into the wishing well a fading copper coin
