@@ -1,6 +1,8 @@
 # Milo Cress's Blog:
 
-Here's another blog you should visit [tpukernels.com](tpukernels.com)
+Here's another blog you should visit: [tpukernels.com](tpukernels.com)
+
+---
 
 Here's a poem I wrote -
 
